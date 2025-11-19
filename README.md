@@ -196,7 +196,3 @@ For any queries or discussions, feel free to reach out!
 ---
 
 ⭐ **If you find this repository helpful, please consider giving it a star!** ⭐
-
----
-
-*Last Updated: November 2025*

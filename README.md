@@ -194,5 +194,7 @@ This project is open source and available for educational purposes.
 For any queries or discussions, feel free to reach out!
 
 ---
+<p align="center">
+  ⭐ <b>If you find this repository helpful, please consider giving it a star!</b> ⭐
+</p>
 
-⭐ **If you find this repository helpful, please consider giving it a star!** ⭐
